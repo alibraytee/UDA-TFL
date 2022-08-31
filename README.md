@@ -8,3 +8,5 @@ Braytee, A., Naji, M. and Kennedy, P.J., 2022. Unsupervised Domain-Adaptation-Ba
 
 Link:
 https://ieeexplore.ieee.org/abstract/document/9744422?casa_token=St9UeyLS4wEAAAAA:1m79siX24VEHmuT6kih9Te-2O7GmKXVWKOKKVN4i-zVEb4h6o5YdnTZscccis1axjFhCigk5cw
+
+Published in: IEEE Transactions on Artificial Intelligence ( Volume: 3, Issue: 3, June 2022)
